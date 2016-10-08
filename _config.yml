@@ -10,7 +10,7 @@ description: |
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: jimmys.email@gmail.com
-baseurl: "/spectral" # the subpath of your site, e.g. /blog
+baseurl: "/serverless" # the subpath of your site, e.g. /blog
 url: "http://www.github.io/jimmylin" # the base hostname & protocol for your site
 social:
   github: https://github.com/jimmylin
