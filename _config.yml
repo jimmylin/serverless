@@ -55,3 +55,6 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+
+# Google services
+google_analytics: UA-85420438-1
