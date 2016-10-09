@@ -2,11 +2,12 @@
 #
 
 # Site settings
-title: Serverlessness
+title: Go Serverless
 description: |
-  Stop managing servers  
-  Spend time on content and functionality  
-  Spend time where it matters
+  Hate Managing Infrastruture?  
+  Functionality instead of maintenance  
+  Stop Paying For Idle Servers  
+  Massive Scalability
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: jimmys.email@gmail.com
